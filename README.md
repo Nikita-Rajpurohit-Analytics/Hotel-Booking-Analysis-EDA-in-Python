@@ -1,4 +1,4 @@
-Hotel Booking Analysis – Exploratory Data Analysis (EDA) with Python
+Hotel Booking Analysis – Exploratory Data Analysis (EDA) using Python
 Introduction:-
    This project focuses on Exploratory Data Analysis (EDA) of a hotel booking dataset. 
    The aim is to uncover customer behavior, booking trends, cancellations, and pricing patterns that can help hotels optimize operations and improve revenue.
